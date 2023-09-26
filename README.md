@@ -1,4 +1,6 @@
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=white&logoColor=white">
+<p align="center">
+  <img width="0" height="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wAA/wAB/YIxJgAAAABJRU5ErkJggg==">
+</p>
 <!-- ### Hi there 👋 -->
 
 <!--
