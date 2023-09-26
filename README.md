@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) -->
+
+#### Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
  
 <!-- ##  📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=miroslavgechev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -49,3 +52,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
 
 -->
+
+
