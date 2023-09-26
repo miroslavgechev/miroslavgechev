@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-## <!-- 🌐 -->Socials:
+<!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gechev) 
-
+ -->
 ## <!-- 💻 -->Tech Stack:
 #### Programming Languages 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
