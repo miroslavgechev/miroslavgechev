@@ -58,6 +58,6 @@
 -->
 
 <p>
-<img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only"/>
-<img align="center" height="300px"  src="https://github-readme-streak-stats.herokuapp.com/?user=miroslavgechev&hide_border=false" />
+<img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only"/>
+<img align="center" height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=miroslavgechev&hide_border=false" />
 </p>
