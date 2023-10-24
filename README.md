@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 📫 You can reach me at: miroslav.gechev@gmail.com
 - 💬 Connect with me on: [LinkedIn](https://www.linkedin.com/in/gechev/)
-- 🔭 Check my resume: [Resume](/Miroslav%20Gechev's%20Resume.pdf)
+- 🔭 Check my resume: [Resume](https://1drv.ms/b/s!AtOFVfabjyWlgagCvXThWVw5vuKYhA?e=J9D8ld)
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gechev)
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 #### Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 ![MySQL](https://skillicons.dev/icons?i=mysql)  
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
