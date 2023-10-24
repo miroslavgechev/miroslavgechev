@@ -1,25 +1,8 @@
 # Hi there 👋, I'm Miroslav
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 📫 You can reach me at: miroslav.gechev@gmail.com
 - 💬 Connect with me on: [LinkedIn](https://www.linkedin.com/in/gechev/)
 - 🔭 Check my resume: [Resume](https://1drv.ms/b/s!AtOFVfabjyWlgagCvXThWVw5vuKYhA?e=J9D8ld)
-
-<!-- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gechev)
- -->
 
 ## <!-- 💻 -->Tech Stack:
 
@@ -69,11 +52,5 @@ Here are some ideas to get you started:
 
 #### Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=miroslavgechev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=miroslavgechev&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=miroslavgechev&hide_border=false)
