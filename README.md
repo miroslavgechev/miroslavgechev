@@ -52,10 +52,12 @@
 
 #### Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
+<!--
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miroslavgechev&hide_border=false)
+-->
 
 <p>
 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only"/>
-<img align="center" width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=miroslavgechev&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=miroslavgechev&hide_border=false" />
 </p>
