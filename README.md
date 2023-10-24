@@ -25,7 +25,6 @@
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://github.com/miroslavgechev)
 
 <!--
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,12 +51,15 @@
 
 #### Stats
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
+
 <!--
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miroslavgechev&hide_border=false)
 -->
 
+<!--
 <p>
 <img align="center" height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavgechev&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only"/>
 <img align="center" height="180px"  src="https://github-readme-streak-stats.herokuapp.com/?user=miroslavgechev&hide_border=false" />
 </p>
+-->
