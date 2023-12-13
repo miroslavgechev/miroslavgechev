@@ -24,31 +24,24 @@
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+[![MUI](https://skillicons.dev/icons?i=materialui)](https://mui.com/material-ui/)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-
-<!--
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
--->
 
 #### Databases
 
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
-<!--
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
--->
-
-<!-- #### Tools
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
--->
+#### Tools
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![GitHubActions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io/)
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 
 #### Stats
 
