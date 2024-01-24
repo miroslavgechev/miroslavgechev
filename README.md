@@ -23,7 +23,7 @@
 #### Frameworks
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![MUI](https://skillicons.dev/icons?i=materialui)](https://mui.com/material-ui/)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
