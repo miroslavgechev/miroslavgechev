@@ -2,7 +2,7 @@
 
 - 📫 You can reach me at: miroslav.gechev@gmail.com
 - 💬 Connect with me on: [LinkedIn](https://www.linkedin.com/in/gechev/)
-- 🔭 Check my resume: [Resume](https://1drv.ms/b/s!AtOFVfabjyWlgagCvXThWVw5vuKYhA?e=J9D8ld)
+<!-- - 🔭 Check my resume: [Resume](https://1drv.ms/b/s!AtOFVfabjyWlgagCvXThWVw5vuKYhA?e=J9D8ld) -->
 
 ## <!-- 💻 -->Tech Stack:
 
